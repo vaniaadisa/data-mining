@@ -1,0 +1,6 @@
+ID,Jenis Kelamin,Umur,Pendapatan-per-bulan,skor-pengeluaran,Menikah,Kota,Promo,HariFav,FavFlavor
+101,Wanita,49,"Rp13,114,754",52,1,Jakarta,1,Sabtu,2
+102,Wanita,32,"Rp3,606,557",86,1,Depok,1,Minggu,6
+103,Pria,51,"Rp15,983,606",41,0,Tangerang,2,Minggu,3
+111,Wanita,31,"Rp11,475,409",54,1,Jakarta,-,Senin,6
+112,Pria,36,"Rp22,508,196",92,1,Depok,0,Jumat,0
